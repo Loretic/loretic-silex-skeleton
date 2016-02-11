@@ -1,0 +1,7 @@
+/vendor
+/data/*.sqlite
+/behat.yml
+/logs/*
+/.sass-cache
+composer.phar
+composer.lock
