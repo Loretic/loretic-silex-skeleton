@@ -5,3 +5,4 @@
 /.sass-cache
 composer.phar
 composer.lock
+.idea
